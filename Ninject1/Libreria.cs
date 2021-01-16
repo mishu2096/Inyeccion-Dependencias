@@ -9,7 +9,7 @@ namespace Ninject1
 
         public string InstertarLibro()
         {
-            string libro = "Se Ingreso un libro con inyecction de dependecia";
+            string libro = "Se Ingreso un libro ";
             Console.WriteLine(libro);
             return libro;
         }
